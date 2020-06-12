@@ -1,0 +1,4 @@
+/home/gxf/桌面/DefectDetectionModule_lib_611/build/CMakeFiles/rebuild_cache.dir
+/home/gxf/桌面/DefectDetectionModule_lib_611/build/CMakeFiles/edit_cache.dir
+/home/gxf/桌面/DefectDetectionModule_lib_611/build/CMakeFiles/defect.dir
+/home/gxf/桌面/DefectDetectionModule_lib_611/build/CMakeFiles/testRun.dir

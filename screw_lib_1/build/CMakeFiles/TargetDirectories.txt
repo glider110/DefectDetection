@@ -1,0 +1,4 @@
+/home/gxf/桌面/screw_lib/build/CMakeFiles/rebuild_cache.dir
+/home/gxf/桌面/screw_lib/build/CMakeFiles/edit_cache.dir
+/home/gxf/桌面/screw_lib/build/CMakeFiles/defect.dir
+/home/gxf/桌面/screw_lib/build/CMakeFiles/testRun.dir

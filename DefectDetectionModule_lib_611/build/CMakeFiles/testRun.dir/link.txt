@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -rdynamic CMakeFiles/testRun.dir/test.cpp.o  -o testRun -Wl,-rpath,/home/gxf/桌面/DefectDetectionModule_lib_611/build:/opt/halcon/lib/x64-linux libdefect.so /opt/halcon/lib/x64-linux/libhalcon.so /opt/halcon/lib/x64-linux/libhalconc.so /opt/halcon/lib/x64-linux/libhalconcpp.so 

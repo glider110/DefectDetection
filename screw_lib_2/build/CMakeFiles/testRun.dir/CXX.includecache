@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../base64/base64.h
+iostream
+-
+string
+-
+
+/home/gxf/桌面/screw_lib/DefectDetectionModule.h
+
+/home/gxf/桌面/screw_lib/test.cpp
+DefectDetectionModule.h
+/home/gxf/桌面/screw_lib/DefectDetectionModule.h
+string
+-
+base64.h
+-
+iostream
+-
+fstream
+-
+stdlib.h
+-
+

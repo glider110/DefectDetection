@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../defect/DefectDetectionModule.h
+
+/home/gxf/桌面/screw_lib/test.cpp
+DefectDetectionModule.h
+/home/gxf/桌面/screw_lib/DefectDetectionModule.h
+

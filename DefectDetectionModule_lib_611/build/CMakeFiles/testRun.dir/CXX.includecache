@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../base64/base64.h
+iostream
+-
+string
+-
+
+../defect/DefectDetectionModule.h
+iostream
+-
+base64.h
+../defect/base64.h
+
+/home/gxf/桌面/DefectDetectionModule_lib_611/test.cpp
+DefectDetectionModule.h
+/home/gxf/桌面/DefectDetectionModule_lib_611/DefectDetectionModule.h
+string
+-
+base64.h
+-
+iostream
+-
+fstream
+-
+stdlib.h
+-
+
